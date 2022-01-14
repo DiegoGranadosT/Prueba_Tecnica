@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaTecnica.Core.Applicat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaTecnica.Core.Domain", "PruebaTecnica.Core.Domain\PruebaTecnica.Core.Domain.csproj", "{20A9C952-4B7A-4EB3-B4B0-040F1AE2F178}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaTecnica.Infraestructure.Persistence", "PruebaTecnica.Infraestructure.Persistence\PruebaTecnica.Infraestructure.Persistence.csproj", "{4ECE6907-8089-425F-A9E5-0E4A8FEB019F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Infraestructure.Persistence", "PruebaTecnica.Infraestructure.Persistence\PruebaTecnica.Infraestructure.Persistence.csproj", "{4ECE6907-8089-425F-A9E5-0E4A8FEB019F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaTecnica.IU.Api", "PruebaTecnica.IU.Api\PruebaTecnica.IU.Api.csproj", "{A9D53ACD-8E4F-417A-9068-A36BF41F0D18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.IU.Api", "PruebaTecnica.IU.Api\PruebaTecnica.IU.Api.csproj", "{A9D53ACD-8E4F-417A-9068-A36BF41F0D18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
